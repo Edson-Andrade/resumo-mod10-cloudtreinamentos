@@ -1,3 +1,3 @@
-Apagar este frase e escrever outra aqui
+Teste de alteração de texto do arquivo
 
 Esse arquivo é de instruções 
