@@ -1,3 +1,3 @@
 #!/bin/bash
-systemctl start httpd.service
+systemctl restart httpd.service
 systemctl enable httpd.service
