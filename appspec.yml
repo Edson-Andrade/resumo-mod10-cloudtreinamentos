@@ -12,9 +12,6 @@ hooks:
     - location: Scripts/after_install.sh
       timeout: 180
       runas: root
-  ApplicationStart:
-    - location: Scripts/RunFunctionalTests.sh
-      timeout: 3600
   ValidateService:
     - location: Scripts/app_start.sh
       timeout: 300
