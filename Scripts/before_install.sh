@@ -1,2 +1,3 @@
 #!/bin/bash
-rm -rf /var/www/html/*
+touch /var/www/html/teste.txt
+rm -R /var/www/html/*
