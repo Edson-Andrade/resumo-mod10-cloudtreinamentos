@@ -14,7 +14,7 @@ phases:
       - echo "Build concluído com sucesso em 'date'!"
 
 artifacts:
-  files:
-    - '**/*'
-  base-directory: 'build'
+    - build/**/*
+    - Scripts/**/*
+    - appspec.yml
 
